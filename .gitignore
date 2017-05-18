@@ -61,3 +61,4 @@ typings/
 .project
 .jshintrc
 .settings
+.tern-project
